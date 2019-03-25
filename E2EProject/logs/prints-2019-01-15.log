@@ -1,0 +1,57 @@
+08:33:54.139 [main] INFO  academy.CountNavBarLinks - driver initialized successfully
+08:34:12.064 [main] INFO  academy.CountNavBarLinks - navigated to home page
+08:34:12.365 [main] INFO  academy.CountNavBarLinks - number of links on navigation bar = 8
+08:34:15.346 [main] INFO  academy.CountNavBarLinks - QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy
+08:34:16.533 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Contact Us
+08:34:17.744 [main] INFO  academy.CountNavBarLinks - QAClick Academy | About Us
+08:34:20.283 [main] INFO  academy.CountNavBarLinks - QAClickAcademy Blog - QAClickAcademy | Become a Test Expert
+08:34:21.533 [main] INFO  academy.CountNavBarLinks - Practice Page
+08:34:22.803 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Interview Guide
+08:34:24.406 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Video Galery
+08:34:25.534 [main] INFO  academy.CountNavBarLinks - QAClick Academy | All Courses
+08:34:28.807 [main] INFO  academy.SanityTest - driver initialized successfully
+08:34:37.742 [main] INFO  academy.SanityTest - navigated to home page
+10:16:45.436 [main] INFO  academy.CountNavBarLinks - driver initialized successfully
+10:16:53.419 [main] INFO  academy.CountNavBarLinks - navigated to home page
+10:16:53.806 [main] INFO  academy.CountNavBarLinks - number of links on navigation bar = 8
+10:16:57.604 [main] INFO  academy.CountNavBarLinks - QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy
+10:16:58.972 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Contact Us
+10:17:00.225 [main] INFO  academy.CountNavBarLinks - QAClick Academy | About Us
+10:17:03.977 [main] INFO  academy.CountNavBarLinks - 
+10:18:23.864 [main] INFO  academy.CountNavBarLinks - driver initialized successfully
+10:18:33.148 [main] INFO  academy.CountNavBarLinks - navigated to home page
+10:18:33.417 [main] INFO  academy.CountNavBarLinks - number of links on navigation bar = 8
+10:18:36.343 [main] INFO  academy.CountNavBarLinks - QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy
+10:18:37.631 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Contact Us
+10:18:38.900 [main] INFO  academy.CountNavBarLinks - QAClick Academy | About Us
+10:18:41.153 [main] INFO  academy.CountNavBarLinks - QAClickAcademy Blog - QAClickAcademy | Become a Test Expert
+10:18:42.363 [main] INFO  academy.CountNavBarLinks - Practice Page
+10:18:43.646 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Interview Guide
+10:18:45.328 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Video Galery
+10:18:46.624 [main] INFO  academy.CountNavBarLinks - QAClick Academy | All Courses
+10:18:50.491 [main] INFO  academy.SanityTest - driver initialized successfully
+10:19:04.748 [main] INFO  academy.SanityTest - navigated to home page
+10:19:04.912 [main] INFO  academy.SanityTest - successfully validated title
+10:19:05.016 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+13:53:12.960 [main] INFO  academy.CountNavBarLinks - driver initialized successfully
+13:53:24.592 [main] INFO  academy.CountNavBarLinks - navigated to home page
+13:53:24.809 [main] INFO  academy.CountNavBarLinks - number of links on navigation bar = 8
+13:53:29.374 [main] INFO  academy.CountNavBarLinks - QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy
+13:53:30.570 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Contact Us
+13:53:31.725 [main] INFO  academy.CountNavBarLinks - QAClick Academy | About Us
+13:53:34.049 [main] INFO  academy.CountNavBarLinks - QAClickAcademy Blog - QAClickAcademy | Become a Test Expert
+13:53:35.217 [main] INFO  academy.CountNavBarLinks - Practice Page
+13:53:36.392 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Interview Guide
+13:53:38.309 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Video Galery
+13:53:39.462 [main] INFO  academy.CountNavBarLinks - QAClick Academy | All Courses
+13:53:43.349 [main] INFO  academy.SanityTest - driver initialized successfully
+13:53:51.783 [main] INFO  academy.SanityTest - navigated to home page
+13:53:52.035 [main] INFO  academy.SanityTest - successfully validated title
+13:53:52.180 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+13:54:00.661 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+17:11:57.174 [main] INFO  academy.CountNavBarLinks - driver initialized successfully
+17:12:04.890 [main] INFO  academy.CountNavBarLinks - navigated to home page
+17:12:05.844 [main] INFO  academy.CountNavBarLinks - number of links on navigation bar = 8
+17:12:13.526 [main] INFO  academy.CountNavBarLinks - QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy
+17:12:15.200 [main] INFO  academy.CountNavBarLinks - QAClick Academy | Contact Us
+17:12:16.672 [main] INFO  academy.CountNavBarLinks - QAClick Academy | About Us

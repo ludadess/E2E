@@ -1,0 +1,62 @@
+07:58:12.241 [main] INFO  academy.SanityTest - driver initialized successfully
+07:58:20.115 [main] INFO  academy.SanityTest - navigated to home page
+07:58:20.854 [main] INFO  academy.SanityTest - successfully validated title
+07:58:21.363 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+07:58:27.705 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+09:03:53.282 [main] INFO  academy.SanityTest - driver initialized successfully
+09:04:02.797 [main] INFO  academy.SanityTest - navigated to home page
+09:04:03.625 [main] INFO  academy.SanityTest - successfully validated title
+09:04:04.818 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+09:09:21.222 [main] INFO  academy.SanityTest - driver initialized successfully
+09:09:26.762 [main] INFO  academy.SanityTest - navigated to home page
+09:09:27.484 [main] INFO  academy.SanityTest - successfully validated title
+09:09:27.846 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+09:09:33.693 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+09:12:12.398 [main] INFO  academy.SanityTest - driver initialized successfully
+09:12:18.543 [main] INFO  academy.SanityTest - navigated to home page
+09:12:19.237 [main] INFO  academy.SanityTest - successfully validated title
+09:12:19.680 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+09:12:24.955 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+09:16:13.209 [main] INFO  academy.SanityTest - driver initialized successfully
+09:16:19.052 [main] INFO  academy.SanityTest - navigated to home page
+09:16:19.845 [main] INFO  academy.SanityTest - successfully validated title
+09:16:20.449 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+09:16:25.823 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+09:19:31.839 [main] INFO  academy.SanityTest - driver initialized successfully
+09:19:38.524 [main] INFO  academy.SanityTest - navigated to home page
+09:19:39.823 [main] INFO  academy.SanityTest - successfully validated title
+09:19:40.202 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+09:19:46.895 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+09:39:18.988 [main] INFO  academy.SanityTest - driver initialized successfully
+09:39:24.781 [main] INFO  academy.SanityTest - navigated to home page
+09:39:25.527 [main] INFO  academy.SanityTest - successfully validated title
+09:39:26.057 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+09:39:33.164 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+09:41:53.256 [main] INFO  academy.SanityTest - driver initialized successfully
+09:41:59.163 [main] INFO  academy.SanityTest - navigated to home page
+09:41:59.696 [main] INFO  academy.SanityTest - successfully validated title
+09:42:00.152 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+09:42:06.282 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+09:45:57.117 [main] INFO  academy.SanityTest - driver initialized successfully
+09:46:07.157 [main] INFO  academy.SanityTest - navigated to home page
+09:46:08.321 [main] INFO  academy.SanityTest - successfully validated title
+09:46:08.801 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+09:57:07.591 [main] INFO  academy.SanityTest - driver initialized successfully
+09:57:13.363 [main] INFO  academy.SanityTest - navigated to home page
+09:57:13.968 [main] INFO  academy.SanityTest - successfully validated title
+09:57:14.477 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+09:57:21.139 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+10:01:24.480 [main] INFO  academy.SanityTest - driver initialized successfully
+10:01:52.648 [main] INFO  academy.SanityTest - navigated to home page
+10:01:53.272 [main] INFO  academy.SanityTest - successfully validated title
+10:01:53.588 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+10:05:39.366 [main] INFO  academy.SanityTest - driver initialized successfully
+10:05:48.973 [main] INFO  academy.SanityTest - navigated to home page
+10:05:49.550 [main] INFO  academy.SanityTest - successfully validated title
+10:05:49.957 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+10:05:55.090 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+10:08:36.994 [main] INFO  academy.SanityTest - driver initialized successfully
+10:08:45.985 [main] INFO  academy.SanityTest - navigated to home page
+10:08:46.892 [main] INFO  academy.SanityTest - successfully validated title
+10:08:47.834 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+13:45:07.926 [main] INFO  academy.SanityTest - driver initialized successfully

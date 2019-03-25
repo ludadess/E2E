@@ -1,0 +1,9 @@
+13:45:13.573 [main] INFO  academy.SanityTest - navigated to home page
+13:45:14.475 [main] INFO  academy.SanityTest - successfully validated title
+13:45:14.808 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+13:45:20.658 [main] INFO  academy.SanityTest - successfully entered user credentials data 
+12:45:04.422 [main] INFO  academy.SanityTest - driver initialized successfully
+12:45:10.984 [main] INFO  academy.SanityTest - navigated to home page
+12:45:11.571 [main] INFO  academy.SanityTest - successfully validated title
+12:45:12.005 [main] INFO  academy.SanityTest - successfully validated Contact menu title
+12:45:17.436 [main] INFO  academy.SanityTest - successfully entered user credentials data 
