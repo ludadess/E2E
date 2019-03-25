@@ -73,7 +73,6 @@ public class SanityTest extends BaseFunctions{
 	@AfterClass
 	public void closeBroser() {
 		driver.close();	
-		driver.quit();
 		driver = null;
 	}
 }
