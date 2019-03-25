@@ -5,7 +5,9 @@
     <classes>
       <class name="academy.SanityTest">
         <methods>
-          <include name="navigateHomePage"/>
+          <include name="closeBroser"/>
+          <include name="storeData"/>
+          <include name="initilize"/>
         </methods>
       </class> <!-- academy.SanityTest -->
     </classes>

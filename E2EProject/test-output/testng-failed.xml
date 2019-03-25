@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]">
-  <listeners>
-    <listener class-name="academy.Listener"/>
-    <listener class-name="academy.ExtentReporterNG"/>
-  </listeners>
-  <test name="Test(failed)">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
       <class name="academy.SanityTest">
         <methods>
           <include name="closeBroser"/>
+          <include name="storeData"/>
           <include name="initilize"/>
-          <include name="navigateHomePage"/>
         </methods>
       </class> <!-- academy.SanityTest -->
     </classes>
-  </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

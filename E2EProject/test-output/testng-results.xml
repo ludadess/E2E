@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results total="2" passed="2" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-01-22T17:44:46Z" name="Suite" finished-at="2019-01-22T17:45:20Z" duration-ms="33971">
+  <suite name="Default suite" duration-ms="15526" started-at="2019-03-25T23:17:05Z" finished-at="2019-03-25T23:17:21Z">
     <groups>
     </groups>
-    <test started-at="2019-01-22T17:44:46Z" name="Test" finished-at="2019-01-22T17:45:20Z" duration-ms="33971">
+    <test name="Default test" duration-ms="15526" started-at="2019-03-25T23:17:05Z" finished-at="2019-03-25T23:17:21Z">
       <class name="academy.SanityTest">
-        <test-method is-config="true" signature="initilize()[pri:0, instance:academy.SanityTest@f478a81]" started-at="2019-01-22T12:44:46Z" name="initilize" finished-at="2019-01-22T12:45:11Z" duration-ms="24544" status="PASS">
+        <test-method status="PASS" signature="initilize()[pri:0, instance:academy.SanityTest@20d28811]" name="initilize" is-config="true" duration-ms="10589" started-at="2019-03-25T19:17:05Z" finished-at="2019-03-25T19:17:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilize -->
-        <test-method signature="navigateHomePage()[pri:0, instance:academy.SanityTest@f478a81]" started-at="2019-01-22T12:45:11Z" name="navigateHomePage" finished-at="2019-01-22T12:45:19Z" duration-ms="8548" status="PASS">
+        <test-method status="PASS" signature="navigateHomePage()[pri:0, instance:academy.SanityTest@20d28811]" name="navigateHomePage" duration-ms="4263" started-at="2019-03-25T19:17:16Z" finished-at="2019-03-25T19:17:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateHomePage -->
-        <test-method signature="storeData()[pri:0, instance:academy.SanityTest@f478a81]" started-at="2019-01-22T12:45:19Z" name="storeData" finished-at="2019-01-22T12:45:19Z" duration-ms="101" status="PASS">
+        <test-method status="PASS" signature="storeData()[pri:0, instance:academy.SanityTest@20d28811]" name="storeData" duration-ms="6" started-at="2019-03-25T19:17:20Z" finished-at="2019-03-25T19:17:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- storeData -->
-        <test-method is-config="true" signature="closeBroser()[pri:0, instance:academy.SanityTest@f478a81]" started-at="2019-01-22T12:45:19Z" name="closeBroser" finished-at="2019-01-22T12:45:20Z" duration-ms="734" status="PASS">
+        <test-method status="PASS" signature="closeBroser()[pri:0, instance:academy.SanityTest@20d28811]" name="closeBroser" is-config="true" duration-ms="651" started-at="2019-03-25T19:17:20Z" finished-at="2019-03-25T19:17:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBroser -->
       </class> <!-- academy.SanityTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
