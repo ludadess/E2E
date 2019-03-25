@@ -51,7 +51,9 @@ public class SanityTest extends BaseFunctions{
 
 	@Test
 	public void storeData() throws IOException {
-		String fPath = "C:\\Work\\eclipse-workspace\\E2EProject\\src\\main\\resources\\SetUserData.properties";
+		String projectpath = System.getProperty("user.dir");
+		
+		String fPath = projectpath+"\\src\\main\\resources\\SetUserData.properties";
 		FileOutputStream outStream = new FileOutputStream (fPath);
 		Properties p = new Properties();
 		p.setProperty("happy", "moon");
