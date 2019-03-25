@@ -53,7 +53,7 @@ public class SanityTest extends BaseFunctions{
 	public void storeData() throws IOException {
 		String projectpath = System.getProperty("user.dir");
 		
-		String fPath = projectpath+"\\src\\main\\resources\\SetUserData.properties";
+		String fPath = projectpath+"src\\main\\resources\\SetUserData.properties";
 		FileOutputStream outStream = new FileOutputStream (fPath);
 		Properties p = new Properties();
 		p.setProperty("happy", "moon");
